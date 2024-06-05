@@ -14,10 +14,6 @@ I have a strong background in both frontend and backend development. With profic
 
 ## 📫 Connect with Me
 
-[![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zidanhafiz)
-
-[![Static Badge](https://img.shields.io/badge/Instagram-gray?style=flat&logo=instagram&)](https://www.instagram.com/hafiz.rofiyani)
-
-[![Static Badge](https://img.shields.io/badge/zidanhafiz-black?style=flat&logo=vercel&)](https://www.instagram.com/hafiz.rofiyani)
+[![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zidanhafiz) [![Static Badge](https://img.shields.io/badge/Instagram-gray?style=flat&logo=instagram&)](https://www.instagram.com/hafiz.rofiyani) [![Static Badge](https://img.shields.io/badge/zidanhafiz-white?style=flat&logo=vercel&logoColor=black)](https://www.zidanhafiz.site)
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or just chat about tech!
